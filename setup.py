@@ -31,7 +31,7 @@ def get_dist(pkgname):
 
 version = '0.8.0a0'
 sha = 'Unknown'
-package_name = 'torchvision'
+package_name = 'torchvisionGRAD'
 
 cwd = os.path.dirname(os.path.abspath(__file__))
 
