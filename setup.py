@@ -393,9 +393,9 @@ setup(
     # Metadata
     name=package_name,
     version=version,
-    author='PyTorch Core Team',
-    author_email='soumith@pytorch.org',
-    url='https://github.com/pytorch/vision',
+    author='Computer Guy',
+    author_email='computer.guybuilder@gmail.com',
+    url='https://github.com/Computer-CGuy/TunedTorchvision',
     description='image and video datasets and models for torch deep learning',
     long_description=readme,
     license='BSD',
